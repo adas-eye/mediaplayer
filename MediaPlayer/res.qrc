@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/forward.png</file>
+        <file>res/Next.png</file>
+        <file>res/Pause.png</file>
+        <file>res/Play.png</file>
+        <file>res/Previous.png</file>
+        <file>res/Record.png</file>
+        <file>res/Retreat.png</file>
+        <file>res/Stop.png</file>
+        <file>res/VoiceOn.png</file>
+        <file>res/VolumeDown.png</file>
+        <file>res/VolumeOff.png</file>
+        <file>res/VolumeUp.png</file>
+        <file>res/OpenFileLogo.png</file>
+    </qresource>
+</RCC>
